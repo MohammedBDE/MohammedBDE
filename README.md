@@ -19,7 +19,7 @@ I like taking a problem, trying more than one way to solve it, and actually meas
 
 ## 💼 Experience
 
-- **Freelance Developer** — building custom websites and web applications for individuals and small businesses, including QR-code digital menu systems for restaurants.
+- **Freelance Developer** — I've worked building custom websites and web applications for individuals and small businesses, including QR-code digital menu systems for restaurants and web applications for retail stores and shops.
 
 ## 🚀 Featured Projects
 
