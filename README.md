@@ -21,7 +21,7 @@ I like taking a problem, trying more than one way to solve it, and actually meas
 
 - 🔹 **Sudoku Solver: Reinforcement Learning vs. Backtracking** — my main project, comparing an RL-based approach against classic backtracking to see which is more reliable at solving Sudoku puzzles.
 - 🔹 **Sudoku-Solving Robot Arm** — using a myCobot 280 Pi robot arm: computer vision (OpenCV) reads a Sudoku board, a solver (backtracking and RL as selectable strategies) works it out, and the robot arm writes or places the solution. In progress.
-- 🔹 **Document Q&A (RAG over PDFs)** — a retrieval-augmented generation project that answers questions over PDF documents, built while learning AI-engineering/RAG concepts.
+- 🔹 **[CiteRAG](https://github.com/MohammedBDE/CiteRAG)** — a retrieval-augmented generation project that answers questions over PDF documents with page-accurate citations, built while learning AI-engineering/RAG concepts.
 
 ## 🎯 Currently
 
