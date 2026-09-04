@@ -17,6 +17,10 @@ I like taking a problem, trying more than one way to solve it, and actually meas
 - **Foundations:** Algorithms & Data Structures, search algorithms (backtracking, minimax)
 - **Tools & Platforms:** Git, Linux, Docker (experience), and I build with AI coding assistants (Claude Code) as part of my workflow
 
+## 💼 Experience
+
+- **Freelance Developer** — building custom websites and web applications for individuals and small businesses, including QR-code digital menu systems for restaurants.
+
 ## 🚀 Featured Projects
 
 - 🔹 **Sudoku Solver: Reinforcement Learning vs. Backtracking** — my main project, comparing an RL-based approach against classic backtracking to see which is more reliable at solving Sudoku puzzles.
