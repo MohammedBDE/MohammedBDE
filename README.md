@@ -25,8 +25,8 @@ I like taking a problem, trying more than one way to solve it, and actually meas
 
 - 🔹 **Sudoku Solver: Reinforcement Learning vs. Backtracking** — my main project, comparing an RL-based approach against classic backtracking to see which is more reliable at solving Sudoku puzzles.
 - 🔹 **Sudoku-Solving Robot Arm** — using a myCobot 280 Pi robot arm: computer vision (OpenCV) reads a Sudoku board, a solver (backtracking and RL as selectable strategies) works it out, and the robot arm writes or places the solution. In progress.
-- 🔹 **CiteLens AI** — a retrieval-augmented Q&A system for PDF documents where every answer comes with a verbatim quote and the exact page it came from, with cross-lingual (Arabic/English) semantic search.
-- 🔹 **SupportHub AI** — a support ticket system that classifies incoming tickets, retrieves the most relevant knowledge-base articles, and drafts a grounded reply for an agent to review and send.
+- 🔹 **CiteLens AI** — a retrieval-augmented Q&A system for PDF documents where every answer comes with a verbatim quote and the exact page it came from, with cross-lingual (Arabic/English) semantic search. [`View repo →`](https://github.com/MohammedBDE/CiteLens-AI)
+- 🔹 **SupportHub AI** — a support ticket system that classifies incoming tickets, retrieves the most relevant knowledge-base articles, and drafts a grounded reply for an agent to review and send. [`View repo →`](https://github.com/MohammedBDE/SupportHub-AI)
 
 ## 🎯 Currently
 
