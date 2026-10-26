@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed Biadse
 
-Computer Science student at Netanya Academic College, graduating December 2026. I build backend and AI-driven projects, and I'm looking for developer roles — backend, full-stack, or AI engineer.
+Computer Science student at Netanya Academic College, graduating Ma 2026. I build backend and AI-driven projects, and I'm looking for developer roles — backend, full-stack, or AI engineer.
 
 🌐 Portfolio: [mohammedbde.github.io](https://mohammedbde.github.io)
 
