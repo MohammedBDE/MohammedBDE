@@ -36,5 +36,5 @@ I like taking a problem, trying more than one way to solve it, and actually meas
 ## 📫 Contact
 
 - Email: mohammedbeadse@gmail.com
-- LinkedIn: [mohammed-beadse](https://www.linkedin.com/in/mohammed-beadse-49b097339)
+- LinkedIn: [mohammed-beadse](https://www.linkedin.com/in/mohammed-beadse-629180437)
 - Portfolio: [mohammedbde.github.io](https://mohammedbde.github.io)
