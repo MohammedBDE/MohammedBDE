@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Mohammed Biadse
 
-Computer Science student at Netanya Academic College, graduating March 2027. I started university at age 15 through a program that combines high school and university studies. I build backend and AI-driven projects, and I'm looking for developer roles — backend, full-stack, or AI engineer.
+Computer Science student at Netanya Academic College, graduating March 2027. I started college at age 15 through a program that combines high school and college studies. I build backend and AI-driven projects, and I'm looking for developer roles — backend, full-stack, or AI engineer.
 
 🌐 Portfolio: [mohammedbde.github.io](https://mohammedbde.github.io)
 
